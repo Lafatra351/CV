@@ -1,15 +1,4 @@
 ###Dilinger
-<section data-markdown>
-  <textarea data-template>
-    ## Slide 1
-    A paragraph with some text for best CV and a [link](http://hakim.se).
-    ---
-    ## Slide 2
-    ---
-    ## Slide 3
-  </textarea>
-</section>
-
 #Compétences et capacités
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
